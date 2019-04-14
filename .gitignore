@@ -1,3 +1,4 @@
 *.retry
 ubuntu-*
 .vagrant/
+*token.yml
